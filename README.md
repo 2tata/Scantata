@@ -1,0 +1,2 @@
+# Scantata
+New cheaper scaner
